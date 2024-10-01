@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heroImage {
+    border-radius: 52px !important;
+}
